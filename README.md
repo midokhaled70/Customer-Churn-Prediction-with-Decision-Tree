@@ -89,10 +89,7 @@ Model Accuracy: 84.67%
 ```
 
 > *(Output may vary depending on dataset split and random state)*
-## **Author**
-**Ahmed Khaled**
 
----
 
 ## 👨‍💻 Author
 
