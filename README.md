@@ -93,5 +93,5 @@ Model Accuracy: 84.67%
 
 ## 👨‍💻 Author
 
-**MIdo Kh**
+**MIdo Kha**
 
